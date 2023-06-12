@@ -1,2 +1,2 @@
-aws_mfa_credentials_updater_legacy
-config.ini
+aws_mfa_credentials_updater_legacy.py
+settings.ini
